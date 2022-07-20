@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayerProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProfileName>Lizzy</ProfileName>
+  <PlayerProgress>0</PlayerProgress>
+  <Items>
+    <AttkBoost>0</AttkBoost>
+    <ArmrBoost>0</ArmrBoost>
+    <SpeedBoost>0</SpeedBoost>
+    <JMPBoost>0</JMPBoost>
+    <ChrgBoost>0</ChrgBoost>
+    <KnockBoost>0</KnockBoost>
+  </Items>
+  <Unlocks>
+    <DoubleJump>false</DoubleJump>
+    <Projectile>false</Projectile>
+    <Charged>false</Charged>
+    <Magnetic>false</Magnetic>
+  </Unlocks>
+</PlayerProfile>
