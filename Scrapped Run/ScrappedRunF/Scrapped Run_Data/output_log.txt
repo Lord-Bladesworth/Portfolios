@@ -1,0 +1,37 @@
+Initialize engine version: 5.3.8f1 (9886e74732cf)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.121 seconds
+Platform assembly: C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 2646x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.128600 ms
+Platform assembly: C:\Users\Bladesworth\Desktop\Vanguard2\Portfolio\ScrappedRunF\Scrapped Run_Data\Managed\System.Xml.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: b10 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.987700 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2068.
+Total: 1.743800 ms (FindLiveObjects: 0.133000 ms CreateObjectMapping: 0.092900 ms MarkObjects: 1.491200 ms  DeleteObjects: 0.025700 ms)
+
+Is Paused
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
